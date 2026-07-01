@@ -1,28 +1,27 @@
-# Ant Group Design 🫶 Community
-
-蚂蚁集团设计团队，由深具才华的设计师、用户研究员和内容策划师组成，负责支付宝、数字金融、蚂蚁国际、智能科技的整体设计和用户体验工作。
+# Ant Group Design AI Lab 🫶 Community
 
 **设计有爱，温暖未来。**
 
-我们致力于：
 
-- **设计系统** — 核心基于 Ant Design 企业级设计系统，搭配支付宝 C 端品牌与体验体系，兼顾 B 端效率与 C 端温度，支撑全球亿级用户产品。
-- **设计理念** — 轻 Design 是蚂蚁设计美学的核心思想：轻盈有序、简洁高效、保持诚实、尊重个性、灵动亲和，为用户创造轻巧灵动的一致体验。
-- **AI 工具** — 用 AI 赋能设计与研发：Ant Design Skill 帮助 AI 更准确地理解设计原则与组件规范，画眉创意中心提供 AI 创作体验，哥伦布 AI 将 AI 能力融入用研全流程。
-- **评测标准** — AI 设计评测标准已获中国人工智能产业联盟团体标准批准，正由中国通信标准化协会推进信通院团体标准申请。
 
-## Contributing
+Ant Group Design AI Lab 以人工智能为核心驱动力，系统性重塑数字设计全链路生产范式，以前瞻视野拓界智能时代设计产业的价值坐标。沉淀了涵盖Ant Design Skill、AI产品设计系统、AI体验原则与评价标准、AI设计工具、前沿设计研究的完整体系，从底层方法论到落地工具矩阵，构建人机协同设计新生态，定义智能设计的行业基准。
 
-我们欢迎各类贡献，包括但不限于：
+## ABOUT US
 
-- 提交 Issue 反馈问题或建议
-- 提交 Pull Request 参与代码贡献
-- 完善文档与使用示例
+- [Ant Group Design](https://ant.design/)
+- [Ant Design Skill](https://ant.design/)
+- [AI 评测标准](https://ant.design/)
+- [AI+用户行为研究](https://ant.design/)
+- [AI 创意](https://ant.design/)
+- 高校合作（敬请期待）
+- [AI 活动](https://ant.design/)
 
-请在各项目的仓库中阅读贡献指南后参与。
+## JOIN US
 
-## Links
+- [招聘官网](https://talent.antgroup.com/home)
 
-- [Ant Design](https://ant.design/) — 企业级设计体系
-- [Ant-Design-Skill](https://github.com/AntGroupDesign/Ant-Design-Skill) — AI 设计辅助技能工具
-- [Ant Group Design 官网](https://antdesigna-s090011697901-site.dev.alipay.net/home) — 蚂蚁设计系统官网（待替换为正式地址）
+## CONTACT US
+
+- [公众号](https://mp.weixin.qq.com/s/3L6Lrxwt_W0z4v5vsb8Uxw)
+- [小红书](https://xhslink.com/m/9FdD8WwZJg8)
+
