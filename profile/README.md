@@ -32,14 +32,6 @@ Our work spans:
 - **AI 工具** — 用 AI 赋能设计与研发：Ant Design Skill 帮助 AI 更准确地理解设计原则与组件规范，画眉创意中心提供 AI 创作体验，哥伦布 AI 将 AI 能力融入用研全流程。
 - **评测标准** — AI 设计评测标准已获中国人工智能产业联盟团体标准批准，正由中国通信标准化协会推进信通院团体标准申请。
 
-## Projects
-
-
-| Project                                                                | Description          |
-| ---------------------------------------------------------------------- | -------------------- |
-| [Ant-Design-Skill](https://github.com/AntGroupDesign/Ant-Design-Skill) | AI 设计辅助技能工具，帮助 AI 理解 Ant Design 5 设计规范，生成更符合风格的 B 端产品界面 |
-
-
 ## Contributing
 
 我们欢迎各类贡献，包括但不限于：
@@ -53,3 +45,5 @@ Our work spans:
 ## Links
 
 - [Ant Design](https://ant.design/) — 企业级设计体系
+- [Ant-Design-Skill](https://github.com/AntGroupDesign/Ant-Design-Skill) — AI 设计辅助技能工具
+- [Ant Group Design 官网](https://antdesigna-s090011697901-site.dev.alipay.net/home) — 蚂蚁设计系统官网（待替换为正式地址）
