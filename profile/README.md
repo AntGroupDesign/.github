@@ -14,8 +14,6 @@ AntGroupDesign is the open-source design team from Ant Group, dedicated to build
 
 
 
-## 中文介绍
-
 蚂蚁集团设计团队，致力于打造优秀的设计体系与开源工具，让设计与技术的连接更高效。我们持续推动开源社区的成长，期望为设计与研发的协作方式带来小而美的改变。
 
 ## Projects
