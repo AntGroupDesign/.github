@@ -2,24 +2,7 @@
 
 🌍 English | [中文](#中文介绍)
 
-
-
 ---
-
-Ant Group Design is the open-source initiative from Ant Group's design team. We build design systems, AI-powered tools, and open-source solutions that bridge design and technology — making product experiences consistent, efficient, and human-centered at scale.
-
-**Design with love, warm the future.**
-
-Our work spans:
-
-- **Design System** — Core built on Ant Design enterprise design system, with Alipay C-end brand & experience system balancing B-end efficiency and C-end warmth, supporting billion-user products globally.
-- **Design Principles** — Light Design (轻 Design) as our core aesthetic philosophy: lightweight & orderly, simple & efficient, honest, respectful of individuality, dynamic & approachable.
-- **AI Tools** — Empowering designers and developers with AI: Ant Design Skill for AI-assisted B-end interface generation, HuaMei Creative Center for AI-powered creative workflows, and Columbus AI intelligent user research platform.
-- **Evaluation Standards** — AI design evaluation standards approved by the China AI Industry Alliance (AIIA) and advancing through CCSA.
-
----
-
-<a id="中文介绍"></a>
 
 蚂蚁集团设计团队，由深具才华的设计师、用户研究员和内容策划师组成，负责支付宝、数字金融、蚂蚁国际、智能科技的整体设计和用户体验工作。
 
