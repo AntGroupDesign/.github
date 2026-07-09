@@ -26,6 +26,6 @@ Ant Group Design AI Lab 以人工智能为核心驱动力，系统性重塑数�
 
 ## More
 
-- [Ant Design](https://github.com/ant-design)
-- [AntV](https://github.com/antvis)
+- [Ant Design](https://ant.design/index-cn/)
+- [AntV](https://charts.ant.design/)
 - [Ant Group](https://github.com/antgroup)
